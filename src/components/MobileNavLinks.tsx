@@ -16,7 +16,7 @@ const MobileNavLinks = () => {
         to="/manage-restaurant"
         className="flex bg-white items-center font-bold hover:text-orange-500"
       >
-        My Restaurant
+        My Medcare
       </Link>
       <Link
         to="/user-profile"

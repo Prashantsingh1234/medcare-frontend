@@ -18,7 +18,7 @@ const HomePage = () => {
         <h1 className="text-5xl font-bold tracking-tight text-orange-600">
           Tuck into a takeway today
         </h1>
-        <span className="text-xl">Food is just a click away!</span>
+        <span className="text-xl">Medicine is just a click away!</span>
         <SearchBar
           placeHolder="Search by City or Town"
           onSubmit={handleSearchSubmit}
@@ -31,7 +31,7 @@ const HomePage = () => {
             Order takeaway even faster!
           </span>
           <span>
-            Download the MernEats App for faster ordering and personalised
+            Download the Medcare App for faster ordering and personalised
             recommendations
           </span>
           <img src={appDownloadImage} />

@@ -16,7 +16,7 @@ const DetailsSection = () => {
       <div>
         <h2 className="text-2xl font-bold">Details</h2>
         <FormDescription>
-          Enter the details about your restaurant
+          Enter the details about your Medcare
         </FormDescription>
       </div>
       <FormField
